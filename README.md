@@ -29,17 +29,7 @@
 </p>
 
 <hr>
-<br>
 <div align="center">
-<h2 align="center">🔥 Top Languages 🔥</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML-90%25-e34f26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-90%25-264de4?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-60%25-f7df1e?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-60%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</div>
-<hr>
-<br>
 <h2 align="center">🖥️ Featured Projects 🖥️</h2>
 
 <div align="center">
