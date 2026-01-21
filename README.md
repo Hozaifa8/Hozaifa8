@@ -1,10 +1,3 @@
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Hozaifa+Maher....;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/hozaifa-al-turkmany-b14720268/" title="LinkedIn Profile"><img width="22" src="https://img.icons8.com/color/48/000000/linkedin.png"> LinkedIn</a></code>
   <code><a href="mailto:hoziefaaltrkmane@gmail.com" title="Email"><img width="22" src="https://img.icons8.com/color/48/000000/gmail.png"> Email</a></code>
