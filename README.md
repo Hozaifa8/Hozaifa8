@@ -33,14 +33,6 @@
 <h2 align="center">🖥️ Featured Projects 🖥️</h2>
 
 <div align="center">
-  <a href="https://hozaifa8.github.io/HTML_And_CSS_Template_One/">
-    <img src="https://img.shields.io/badge/-HTML%20%26%20CSS%20Template%20One-61dafb?style=for-the-badge&logo=html5&logoColor=white"/>
-  </a>
-
-  <a href="https://hozaifa8.github.io/HTML_And_CSS_Template_Tow/">
-    <img src="https://img.shields.io/badge/-HTML%20%26%20CSS%20Template%20Two-ea4c88?style=for-the-badge&logo=css3&logoColor=white"/>
-  </a>
-
   <a href="https://github.com/Hozaifa8?tab=repositories">
     <img src="https://img.shields.io/badge/-All_Projects-28a745?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
